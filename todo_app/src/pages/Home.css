@@ -1,0 +1,14 @@
+/* Styling the todo list. */
+.todo__title {
+  color: #fff;
+}
+.todo__footer {
+  color: #000;
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.todo__btn {
+  width: 35%;
+  height: 30px;
+}
